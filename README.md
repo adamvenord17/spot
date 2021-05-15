@@ -292,9 +292,9 @@ https://medium.com/flutter-community/automating-publishing-your-flutter-apps-to-
 
 
 
-![coverage][coverage_badge]
 
-[![License: MIT][license_badge]][license_link]
+
+
 
 
 
