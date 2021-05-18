@@ -23,7 +23,9 @@ How you utilise Spot is up to you! You may be able to check out the local festiv
 https://www.figma.com/file/ZBoiOu4RpBQT03QKHw7lDG/Spot?node-id=0%3A1
 
 ---
-## Schema
+## Supabase Database Schema
+
+> Please note that you need enable `postgis` database extensions before run import database schema
 
 ```sql
 create table if not exists public.users (
