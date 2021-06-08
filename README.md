@@ -15,7 +15,7 @@ You can record Spot videos to let your everyone else know what is happening wher
 ENJOY
 How you utilise Spot is up to you! You may be able to check out the local festival without actual going there, discover hidden local amazing restaurants, or virtually visit your favorite city in the world. When you visit amazing places, don't forget to save that memory inside Spot so that the world can know about that place!
 
-![Spot Screenshots](https://github.com/adamvenord17/spot/blob/main/assets/readme/screenshots.png?raw=true)
+![Spot Screenshots](https://user-images.githubusercontent.com/42157716/121142235-5ef4ee80-c86e-11eb-8694-05fc490f1c40.png?raw=true)
 
 ---
 
