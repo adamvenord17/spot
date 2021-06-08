@@ -292,20 +292,6 @@ https://medium.com/flutter-community/automating-publishing-your-flutter-apps-to-
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 ## Getting Started 🚀
 
 This project contains 3 flavors:
@@ -449,14 +435,4 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
     }
 }
 ```
-
-
-
-
-
-
-
-
-
-
 
